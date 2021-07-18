@@ -1,0 +1,42 @@
+* {
+  color: black;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  margin-top: 2px; 
+}
+.intro {
+  /*display: table;
+  width: 100%;
+  height: 100vh;
+  background: url(img/vs.jpg) no-repeat bottom center scroll;*/
+  background-position: 30% 45%;
+  background-size: cover;
+  background-color: blueviolet;
+  
+}
+
+h1 {
+    text-align: center;
+}
+header {
+  padding: 50px;
+}
+
+.parag {
+  -webkit-margin-after: 1em;
+}
+
+#DivB {
+  width: 50%;
+  min-width: 250px;
+  vertical-align: top;
+  float: right;
+  
+}
+
+#DivA {
+  width: 50%;
+  min-width: 250px;
+  display: inline-block;
+  vertical-align: top;
+
+  }
